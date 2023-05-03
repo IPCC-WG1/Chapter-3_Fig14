@@ -1,5 +1,6 @@
 DETECTION AND ATTRIBUTION ANALYIS OF TROPICAL PRECIPITATION
 ===========================================================
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6778068.svg)](https://doi.org/10.5281/zenodo.6778068)
 
 Figure number: Figure 3.14
 From the IPCC Working Group I Contribution to the Sixth Assessment Report: Chapter 3
